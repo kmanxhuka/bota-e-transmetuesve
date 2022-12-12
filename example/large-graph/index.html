@@ -14,7 +14,7 @@
 
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('../example/datasets/transmetuesit.json')
-      .nodeAutoColorBy('name')
+      .nodeAutoColorBy('id')
       .nodeLabel(node => `${node.id}: ${node.description}`)
   </script>
 </body>
