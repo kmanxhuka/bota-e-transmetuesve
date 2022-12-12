@@ -13,7 +13,7 @@
     const elem = document.getElementById('3d-graph');
 
     const Graph = ForceGraph3D()(elem)
-      .jsonUrl('https://gist.githubusercontent.com/kmanxhuka/49b5beee7c39954f477c689df35a4bce/raw/5fa904874b87899de2dfaa0fc326c624d465fa41/graphdata.json')
+      .jsonUrl('../example/datasets/transmetuesit.json')
       .nodeAutoColorBy('user')
       .nodeLabel(node => `${node.user}: ${node.description}`)
       .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));

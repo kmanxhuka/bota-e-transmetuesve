@@ -1,0 +1,1496 @@
+{
+  "nodes": [
+    {
+      "id": "muhamed",
+      "name": "محمد ﷺ",
+      "val": "100"
+    },
+    {
+      "id": "ebekr",
+      "name": "أبو بكر الصديق",
+      "val": "40"
+    },
+    {
+      "id": "omer",
+      "name": "عمر بن الخطاب",
+      "val": "40"
+    },
+    {
+      "id": "othman",
+      "name": "عثمان بن عفان",
+      "val": "40"
+    },
+    {
+      "id": "ali",
+      "name": "علي بن أبي طالب",
+      "val": "40"
+    },
+    {
+      "id": "ahmed_ibrahim",
+      "name": "أحمد بن إبراهيم",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_ishak",
+      "name": "أحمد بن إسحاق",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_ishkab",
+      "name": "أحمد بن إشكاب",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_xhafer",
+      "name": "أحمد بن جعفر",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_xhinab",
+      "name": "أحمد بن جناب",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_xhevas",
+      "name": "أحمد بن جواس",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_hasen_tirm",
+      "name": "أحمد بن الحسن الترمذي",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_hasen_hirash",
+      "name": "أحمد بن الحسن بن خراش",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_haxhaxh",
+      "name": "أحمد بن الحجاج",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_humejd",
+      "name": "أحمد بن حميد",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_eamr",
+      "name": "أحمد بن أبو عمرو",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_muh_hanbel",
+      "name": "أحمد بن محمد بن حنبل",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_muh_velid",
+      "name": "أحمد بن محمد بن الوليد",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_muh_musa",
+      "name": "أحمد بن محمد بن موسى",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_menii",
+      "name": "أحمد بن منيع",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_mundhir",
+      "name": "أحمد بن المنذر",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_mihran",
+      "name": "أحمد بن مهران",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_mikdam",
+      "name": "أحمد بن المقدام",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_salih",
+      "name": "أحمد بن صالح",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abd_hakem",
+      "name": "أحمد بن عبد الله بن الحكم",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abd_ali",
+      "name": "أحمد بن عبد الله بن علي",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abd_ejub",
+      "name": "أحمد بن عبد الله بن أيوب",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abd_junus",
+      "name": "أحمد بن عبد الله بن يونس",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abd_muslim",
+      "name": "أحمد بن عبد الله بن مسلم",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abdmelik",
+      "name": "أحمد بن عبد الملك",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_ubd_suhejl",
+      "name": "أحمد بن عبيد الله بن سهيل",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_ubd_husejn",
+      "name": "أحمد بن عبيد الله بن الحسين",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abdrrahman",
+      "name": "أحمد بن عبد الرحمن",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_omer",
+      "name": "أحمد بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_oth_hakim",
+      "name": "أحمد بن عثمان بن حكيم",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_oth_abdnur",
+      "name": "أحمد بن عثمان بن عبد النور",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_amr",
+      "name": "أحمد بن عمرو",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_isa",
+      "name": "أحمد بن عيسى",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abde_basr",
+      "name": "أحمد بن عبدة البصري",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_abde_amili",
+      "name": "أحمد بن عبدة الآملي",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_ebekr",
+      "name": "أحمد بن أبي بكر",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_seid_sahr",
+      "name": "أحمد بن سعيد بن صخر",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_seid_ibrahim",
+      "name": "أحمد بن سعيد بن إبراهيم",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_sinan",
+      "name": "أحمد بن سنان",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_sulejman",
+      "name": "أحمد بن سليمان",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_esurejxh",
+      "name": "أحمد بن أبي سريج",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_shebib",
+      "name": "أحمد بن شبيب",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_edavud",
+      "name": "أحمد بن أبي داود",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_jakub",
+      "name": "أحمد بن يعقوب",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_jezid",
+      "name": "أحمد بن يزيد",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_jusuf_nisbur",
+      "name": "أحمد بن يوسف النيسابوري",
+      "val": "10"
+    },
+    {
+      "id": "ahmed_jusuf_tirm",
+      "name": "أحمد بن يوسف الترمذي",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_harith",
+      "name": "إبراهيم بن الحارث",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_hamze",
+      "name": "إبراهيم بن حمزة",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_halid_bag",
+      "name": "إبراهيم بن خالد البغدادي",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_halid_jeshk",
+      "name": "إبراهيم بن خالد اليشكري",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_dinar",
+      "name": "إبراهيم بن دينار",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_zijad_saig",
+      "name": "إبراهيم بن زياد الصائغ",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_zijad_hajat",
+      "name": "إبراهيم بن زياد الخياط",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_zijad_seblan",
+      "name": "إبراهيم بن زياد سبلان",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_seid",
+      "name": "إبراهيم بن سعيد",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_muhamed",
+      "name": "إبراهيم بن محمد البصري",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_mundhir",
+      "name": "إبراهيم بن المنذر",
+      "val": "10"
+    },
+    {
+      "id": "ibrahim_musa",
+      "name": "إبراهيم بن موسى",
+      "val": "10"
+    },
+    {
+      "id": "adem_eijas",
+      "name": "آدم بن أبي إياس التميمي",
+      "val": "10"
+    },
+    {
+      "id": "ezher_xhemil",
+      "name": "أزهر بن جميل البصري",
+      "val": "10"
+    },
+    {
+      "id": "ishak_ibrahim_beg",
+      "name": "إسحاق بن إبراهيم البغوي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_ibrahim_basr",
+      "name": "إسحاق بن إبراهيم البصري",
+      "val": "10"
+    },
+    {
+      "id": "ishak_ibrahim_handh",
+      "name": "إسحاق بن إبراهيم الحنظلي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_ibrahim_buh",
+      "name": "إسحاق بن إبراهيم البخاري",
+      "val": "10"
+    },
+    {
+      "id": "ishak_ibrahim_umv",
+      "name": "إسحاق بن إبراهيم الأموي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_shahin",
+      "name": "إسحاق بن شاهين",
+      "val": "10"
+    },
+    {
+      "id": "ishak_omer",
+      "name": "إسحاق بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "ishak_eisa",
+      "name": "إسحاق بن أبي عيسى",
+      "val": "10"
+    },
+    {
+      "id": "ishak_muhamed",
+      "name": "إسحاق بن محمد الأموي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_mensur",
+      "name": "إسحاق بن منصور المروزي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_musa",
+      "name": "إسحاق بن موسى الخطمي",
+      "val": "10"
+    },
+    {
+      "id": "ishak_vehb",
+      "name": "إسحاق بن وهب الواسطي",
+      "val": "10"
+    },
+    {
+      "id": "ismail_eban_ganv",
+      "name": "إسماعيل بن أبان الغنوي",
+      "val": "10"
+    },
+    {
+      "id": "ismail_eban_kasim",
+      "name": "إسماعيل بن أبان بن القاسم",
+      "val": "10"
+    },
+    {
+      "id": "ismail_ibrahim_herv",
+      "name": "إسماعيل بن إبراهيم الهروي",
+      "val": "10"
+    },
+    {
+      "id": "ismail_euvejs",
+      "name": "إسماعيل بن أبي أويس",
+      "val": "10"
+    },
+    {
+      "id": "ismail_halil",
+      "name": "إسماعيل بن خليل",
+      "val": "10"
+    },
+    {
+      "id": "ismail_salim",
+      "name": "إسماعيل بن سالم",
+      "val": "10"
+    },
+    {
+      "id": "ismail_abdullah",
+      "name": "إسماعيل بن عبد الله",
+      "val": "10"
+    },
+    {
+      "id": "ismail_zejd",
+      "name": "إسماعيل بن زيد",
+      "val": "10"
+    },
+    {
+      "id": "ismail_ferexh",
+      "name": "إسماعيل بن الفرج",
+      "val": "10"
+    },
+    {
+      "id": "ismail_bistam",
+      "name": "إسماعيل بن بسطام",
+      "val": "10"
+    },
+    {
+      "id": "ismail_sulejman",
+      "name": "إسماعيل بن سليمان",
+      "val": "10"
+    },
+    {
+      "id": "bedel_mihber",
+      "name": "بدل بن المحبر",
+      "val": "10"
+    },
+    {
+      "id": "bishr_adem",
+      "name": "بشر بن آدم",
+      "val": "10"
+    },
+    {
+      "id": "bishr_hakem",
+      "name": "بشر بن الحكم",
+      "val": "10"
+    },
+    {
+      "id": "bishr_shuajb",
+      "name": "بشر بن شعيب",
+      "val": "10"
+    },
+    {
+      "id": "bishr_isa",
+      "name": "بشر بن عيسى",
+      "val": "10"
+    },
+    {
+      "id": "bishr_muhamed",
+      "name": "بشر بن محمد",
+      "val": "10"
+    },
+    {
+      "id": "bishr_hilal",
+      "name": "بشر بن هلال",
+      "val": "10"
+    },
+    {
+      "id": "bishr_halef",
+      "name": "بشر بن خلف",
+      "val": "10"
+    },
+    {
+      "id": "bishr_asrem",
+      "name": "بشر بن أصرم",
+      "val": "10"
+    },
+    {
+      "id": "bishr_amr",
+      "name": "بشر بن عمرو",
+      "val": "10"
+    },
+    {
+      "id": "bekr_halef",
+      "name": "بكر بن خلف",
+      "val": "10"
+    },
+    {
+      "id": "bur_asrem",
+      "name": "بور بن أصرم",
+      "val": "10"
+    },
+    {
+      "id": "bejan_amr",
+      "name": "بيان بن عمرو",
+      "val": "10"
+    },
+    {
+      "id": "temim_mensur",
+      "name": "تميم بن المنتصر",
+      "val": "10"
+    },
+    {
+      "id": "thabit_muhamed",
+      "name": "ثابت بن محمد",
+      "val": "10"
+    },
+    {
+      "id": "xhafer_humejd",
+      "name": "جعفر حميد",
+      "val": "10"
+    },
+    {
+      "id": "xhuma_abdullah",
+      "name": "جمعة بن عبد الله",
+      "val": "10"
+    },
+    {
+      "id": "haxhib_velid",
+      "name": "حاجب بن الوليد",
+      "val": "10"
+    },
+    {
+      "id": "hamid_omer",
+      "name": "حامد بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "hiban_musa",
+      "name": "حبان بن موسى",
+      "val": "10"
+    },
+    {
+      "id": "haxhaxh_minhal",
+      "name": "حجاج بن منهال",
+      "val": "10"
+    },
+    {
+      "id": "haxhaxh_jusuf",
+      "name": "حجاج بن يوسف",
+      "val": "10"
+    },
+    {
+      "id": "harami_hafs",
+      "name": "حرمي بن حفص",
+      "val": "10"
+    },
+    {
+      "id": "harmele_jahja",
+      "name": "حرملة بن يحيى",
+      "val": "10"
+    },
+    {
+      "id": "hasan_hasan",
+      "name": "حسان بن حسان البصري",
+      "val": "10"
+    },
+    {
+      "id": "hasan_abdullah",
+      "name": "حسان بن عبد الله",
+      "val": "10"
+    },
+    {
+      "id": "hasen_ahmed",
+      "name": "الحسن بن أحمد",
+      "val": "10"
+    },
+    {
+      "id": "hasen_ishak",
+      "name": "الحسن بن إسحاق",
+      "val": "10"
+    },
+    {
+      "id": "hasen_bishr",
+      "name": "الحسن بن بشر",
+      "val": "10"
+    },
+    {
+      "id": "hasen_halef",
+      "name": "الحسن بن خلف",
+      "val": "10"
+    },
+    {
+      "id": "hasen_rrebii",
+      "name": "الحسن بن الربيع",
+      "val": "10"
+    },
+    {
+      "id": "hasen_sabah",
+      "name": "الحسن بن الصباح",
+      "val": "10"
+    },
+    {
+      "id": "hasen_abdulaziz",
+      "name": "الحسن بن عبد العزيز",
+      "val": "10"
+    },
+    {
+      "id": "hasen_ali",
+      "name": "الحسن بن علي",
+      "val": "10"
+    },
+    {
+      "id": "hasen_omer",
+      "name": "الحسن بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "hasen_isa",
+      "name": "الحسن بن عيسى",
+      "val": "10"
+    },
+    {
+      "id": "hasen_mhmd_umv",
+      "name": "الحسن بن محمد الأموي",
+      "val": "10"
+    },
+    {
+      "id": "hasen_mhmd_bag",
+      "name": "الحسن بن محمد البغدادي",
+      "val": "10"
+    },
+    {
+      "id": "hasen_mudrik",
+      "name": "الحسن بن مدرك",
+      "val": "10"
+    },
+    {
+      "id": "hasen_mensur",
+      "name": "الحسن بن منصور",
+      "val": "10"
+    },
+    {
+      "id": "husejn_harith",
+      "name": "حسين بن حريث",
+      "val": "10"
+    },
+    {
+      "id": "husejn_isa",
+      "name": "حسين بن عيسى",
+      "val": "10"
+    },
+    {
+      "id": "husejn_mensur",
+      "name": "حسين بن منصور",
+      "val": "10"
+    },
+    {
+      "id": "husejn_omer",
+      "name": "حفص بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "hakem_musa",
+      "name": "الحكم بن موسى",
+      "val": "10"
+    },
+    {
+      "id": "hakem_nafii",
+      "name": "الحكم بن نافع",
+      "val": "10"
+    },
+    {
+      "id": "hamad_ismail",
+      "name": "حماد بن إسماعيل",
+      "val": "10"
+    },
+    {
+      "id": "hamad_hasen",
+      "name": "حماد بن الحسن",
+      "val": "10"
+    },
+    {
+      "id": "hamad_omer",
+      "name": "حماد بن عمر",
+      "val": "10"
+    },
+    {
+      "id": "humejd_misade",
+      "name": "حميد بن مسعدة",
+      "val": "10"
+    },
+    {
+      "id": "hajve_shurejh",
+      "name": "حيوة بن شريح",
+      "val": "10"
+    },
+    {
+      "id": "halid_hadash",
+      "name": "خالد بن خداش",
+      "val": "10"
+    },
+    {
+      "id": "halid_halij",
+      "name": "خالد بن خلي",
+      "val": "10"
+    },
+    {
+      "id": "halid_mahled",
+      "name": "خالد بن مخلد",
+      "val": "10"
+    },
+    {
+      "id": "halid_jezid",
+      "name": "خالد بن يزيد",
+      "val": "10"
+    },
+    {
+      "id": "hatab_othman",
+      "name": "خطاب بن عثمان",
+      "val": "10"
+    },
+    {
+      "id": "halef_halid",
+      "name": "خلف بن خالد",
+      "val": "10"
+    },
+    {
+      "id": "halef_hisham",
+      "name": "خلف بن هشام",
+      "val": "10"
+    },
+    {
+      "id": "halife_hajat",
+      "name": "خليفة بن خياط",
+      "val": "10"
+    },
+    {
+      "id": "halad_jahja",
+      "name": "خلاد بن يحيى",
+      "val": "10"
+    },
+    {
+      "id": "davud_rashid",
+      "name": "داود بن رشيد",
+      "val": "10"
+    },
+    {
+      "id": "davud_shebib",
+      "name": "داود بن شبيب",
+      "val": "10"
+    },
+    {
+      "id": "davud_amr",
+      "name": "داود بن عمرو",
+      "val": "10"
+    },
+    {
+      "id": "rebii_nafi",
+      "name": "الربيع بن نافع",
+      "val": "10"
+    },
+    {
+      "id": "rebii_jahja",
+      "name": "الربيع بن يحيى",
+      "val": "10"
+    },
+    {
+      "id": "rifaa_hejthem",
+      "name": "رفاعة بن الهيثم",
+      "val": "10"
+    },
+    {
+      "id": "reuh_abdmumin",
+      "name": "روح بن عبد المؤمن",
+      "val": "10"
+    },
+    {
+      "id": "zekrija_ezekrija",
+      "name": "زكريا بن أبي زكريا البلخي",
+      "val": "10"
+    },
+    {
+      "id": "zekrija_adij",
+      "name": "زكريا بن عدي",
+      "val": "10"
+    },
+    {
+      "id": "zekrija_jahja_hemd",
+      "name": "زكريا بن يحيى الهمداني",
+      "val": "10"
+    },
+    {
+      "id": "zekrija_jahja_misr",
+      "name": "زكريا بن يحيى المصري",
+      "val": "10"
+    },
+    {
+      "id": "zekrija_jahja_kuf",
+      "name": "زكريا بن يحيى الكوفي",
+      "val": "10"
+    },
+    {
+      "id": "zuhejr_harb",
+      "name": "زهير بن حرب",
+      "val": "10"
+    },
+    {
+      "id": "zijad_ejub",
+      "name": "زياد بن أيوب",
+      "val": "10"
+    },
+    {
+      "id": "zijad_jahja",
+      "name": "زياد بن يحيى",
+      "val": "10"
+    },
+    {
+      "id": "zijad_ahzem",
+      "name": "زيد بن أخزم",
+      "val": "10"
+    },
+    {
+      "id": "zijad_jezid",
+      "name": "زيد بن يزيد",
+      "val": "10"
+    }
+  ],
+  "links": [
+    {
+      "source": "muhamed",
+      "target": "ebekr"
+    },
+    {
+      "source": "muhamed",
+      "target": "omer"
+    },
+    {
+      "source": "muhamed",
+      "target": "othman"
+    },
+    {
+      "source": "muhamed",
+      "target": "ali"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ibrahim"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ishak"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ishkab"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_xhafer"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_xhinab"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_xhevas"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_hasen_tirm"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_hasen_hirash"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_haxhaxh"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_humejd"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_eamr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_muh_hanbel"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_muh_velid"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_muh_musa"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_menii"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_mundhir"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_mihran"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_mikdam"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_salih"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abd_hakem"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abd_ali"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abd_ejub"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abd_junus"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abd_muslim"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abdmelik"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ubd_suhejl"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ubd_husejn"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abdrrahman"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_omer"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_oth_hakim"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_oth_abdnur"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_amr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_isa"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abde_basr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_abde_amili"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_ebekr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_seid_sahr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_seid_ibrahim"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_sinan"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_sulejman"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_esurejxh"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_shebib"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_edavud"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_jakub"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_jezid"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_jusuf_nisbur"
+    },
+    {
+      "source": "ebekr",
+      "target": "ahmed_jusuf_tirm"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_harith"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_hamze"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_halid_bag"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_halid_jeshk"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_dinar"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_zijad_saig"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_zijad_hajat"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_zijad_seblan"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_seid"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_muhamed"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_mundhir"
+    },
+    {
+      "source": "ebekr",
+      "target": "ibrahim_musa"
+    },
+    {
+      "source": "ebekr",
+      "target": "adem_eijas"
+    },
+    {
+      "source": "ebekr",
+      "target": "ezher_xhemil"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_ibrahim_beg"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_ibrahim_basr"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_ibrahim_handh"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_ibrahim_buh"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_ibrahim_umv"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_shahin"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_omer"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_eisa"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_muhamed"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_mensur"
+    },
+    {
+      "source": "ebekr",
+      "target": "ishak_musa"
+    },
+    {
+      "source": "ali",
+      "target": "ishak_vehb"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_eban_ganv"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_eban_kasim"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_ibrahim_herv"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_euvejs"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_halil"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_salim"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_abdullah"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_zejd"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_ferexh"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_bistam"
+    },
+    {
+      "source": "ali",
+      "target": "ismail_sulejman"
+    },
+    {
+      "source": "ali",
+      "target": "bedel_mihber"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_adem"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_hakem"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_shuajb"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_isa"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_muhamed"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_hilal"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_halef"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_asrem"
+    },
+    {
+      "source": "ali",
+      "target": "bishr_amr"
+    },
+    {
+      "source": "ali",
+      "target": "bekr_halef"
+    },
+    {
+      "source": "ali",
+      "target": "bur_asrem"
+    },
+    {
+      "source": "ali",
+      "target": "bejan_amr"
+    },
+    {
+      "source": "ali",
+      "target": "temim_mensur"
+    },
+    {
+      "source": "ali",
+      "target": "thabit_muhamed"
+    },
+    {
+      "source": "ali",
+      "target": "xhafer_humejd"
+    },
+    {
+      "source": "ali",
+      "target": "xhuma_abdullah"
+    },
+    {
+      "source": "ali",
+      "target": "haxhib_velid"
+    },
+    {
+      "source": "ali",
+      "target": "hamid_omer"
+    },
+    {
+      "source": "ali",
+      "target": "hiban_musa"
+    },
+    {
+      "source": "ali",
+      "target": "haxhaxh_minhal"
+    },
+    {
+      "source": "ali",
+      "target": "haxhaxh_jusuf"
+    },
+    {
+      "source": "ali",
+      "target": "harami_hafs"
+    },
+    {
+      "source": "ali",
+      "target": "harmele_jahja"
+    },
+    {
+      "source": "ali",
+      "target": "hasan_hasan"
+    },
+    {
+      "source": "ali",
+      "target": "hasan_abdullah"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_ahmed"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_ishak"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_bishr"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_halef"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_rrebii"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_sabah"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_abdulaziz"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_ali"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_omer"
+    },
+    {
+      "source": "ali",
+      "target": "hasen_isa"
+    },
+    {
+      "source": "omer",
+      "target": "hasen_mhmd_umv"
+    },
+    {
+      "source": "omer",
+      "target": "hasen_mhmd_bag"
+    },
+    {
+      "source": "omer",
+      "target": "hasen_mudrik"
+    },
+    {
+      "source": "omer",
+      "target": "hasen_mensur"
+    },
+    {
+      "source": "omer",
+      "target": "husejn_harith"
+    },
+    {
+      "source": "omer",
+      "target": "husejn_isa"
+    },
+    {
+      "source": "omer",
+      "target": "husejn_mensur"
+    },
+    {
+      "source": "omer",
+      "target": "husejn_omer"
+    },
+    {
+      "source": "omer",
+      "target": "hakem_musa"
+    },
+    {
+      "source": "omer",
+      "target": "hakem_nafii"
+    },
+    {
+      "source": "omer",
+      "target": "hamad_ismail"
+    },
+    {
+      "source": "omer",
+      "target": "hamad_hasen"
+    },
+    {
+      "source": "omer",
+      "target": "hamad_omer"
+    },
+    {
+      "source": "omer",
+      "target": "humejd_misade"
+    },
+    {
+      "source": "omer",
+      "target": "hajve_shurejh"
+    },
+    {
+      "source": "omer",
+      "target": "halid_hadash"
+    },
+    {
+      "source": "omer",
+      "target": "halid_halij"
+    },
+    {
+      "source": "omer",
+      "target": "halid_mahled"
+    },
+    {
+      "source": "omer",
+      "target": "halid_jezid"
+    },
+    {
+      "source": "omer",
+      "target": "hatab_othman"
+    },
+    {
+      "source": "omer",
+      "target": "halef_halid"
+    },
+    {
+      "source": "omer",
+      "target": "halef_hisham"
+    },
+    {
+      "source": "omer",
+      "target": "halife_hajat"
+    },
+    {
+      "source": "omer",
+      "target": "halad_jahja"
+    },
+    {
+      "source": "omer",
+      "target": "davud_rashid"
+    },
+    {
+      "source": "othman",
+      "target": "davud_shebib"
+    },
+    {
+      "source": "othman",
+      "target": "davud_amr"
+    },
+    {
+      "source": "othman",
+      "target": "rebii_nafi"
+    },
+    {
+      "source": "othman",
+      "target": "rebii_jahja"
+    },
+    {
+      "source": "othman",
+      "target": "rifaa_hejthem"
+    },
+    {
+      "source": "othman",
+      "target": "reuh_abdmumin"
+    },
+    {
+      "source": "othman",
+      "target": "zekrija_ezekrija"
+    },
+    {
+      "source": "othman",
+      "target": "zekrija_adij"
+    },
+    {
+      "source": "othman",
+      "target": "zekrija_jahja_hemd"
+    },
+    {
+      "source": "othman",
+      "target": "zekrija_jahja_misr"
+    },
+    {
+      "source": "othman",
+      "target": "zekrija_jahja_kuf"
+    },
+    {
+      "source": "othman",
+      "target": "zuhejr_harb"
+    },
+    {
+      "source": "othman",
+      "target": "zijad_ejub"
+    },
+    {
+      "source": "othman",
+      "target": "zijad_jahja"
+    },
+    {
+      "source": "othman",
+      "target": "zijad_ahzem"
+    },
+    {
+      "source": "othman",
+      "target": "zijad_jezid"
+    }
+  ]
+}
