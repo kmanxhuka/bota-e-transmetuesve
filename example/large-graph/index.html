@@ -15,7 +15,6 @@
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('../example/datasets/transmetuesit.json')
       .nodeAutoColorBy('user')
-      .nodeLabel(node => `${node.user}: ${node.description}`)
-      .onNodeClick(node => window.open(`https://bl.ocks.org/${node.user}/${node.id}`, '_blank'));
+      .nodeLabel(node => `${node.user}: ${node.description}`);
   </script>
 </body>
