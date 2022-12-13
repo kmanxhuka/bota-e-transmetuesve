@@ -1150,6 +1150,14 @@
       "target": "halid_jezid"
     },
     {
+      "source": "omer",
+      "target": "halid_mahled"
+    },
+    {
+      "source": "omer",
+      "target": "halid_jezid"
+    },
+    {
       "source": "muhamed",
       "target": "omer"
     },
