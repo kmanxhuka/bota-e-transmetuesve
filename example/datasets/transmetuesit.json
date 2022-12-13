@@ -1142,6 +1142,10 @@
       "target": "ebekr"
     },
     {
+      "source": "ebekr",
+      "target": ["halid_mahled","halid_jezid"]
+    },
+    {
       "source": "muhamed",
       "target": "omer"
     },
@@ -1162,7 +1166,7 @@
       "target": "usame_zejd"
     },
     {
-      "source": ["muhamed","ebekr"],
+      "source": "muhamed",
       "target": "enes_malik"
     },
     {
