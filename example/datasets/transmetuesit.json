@@ -1,4 +1,5 @@
-{"nodes": [
+{
+  "nodes": [
     {
       "id": "muhamed",
       "name": "محمد ﷺ",
@@ -828,6 +829,311 @@
       "id": "zijad_jezid",
       "name": "زيد بن يزيد",
       "val": "10"
+    },
+    {
+      "id": "muhamed_mesleme",
+      "name": "محمد بن مسلمة",
+      "val": "40"
+    },
+    {
+      "id": "usame_zejd",
+      "name": "أسامة بن زيد بن حارثة",
+      "val": "40"
+    },
+    {
+      "id": "enes_malik",
+      "name": "أنس بن مالك",
+      "val": "40"
+    },
+    {
+      "id": "ubej_kab",
+      "name": "أبيّ بن كعب",
+      "val": "40"
+    },
+    {
+      "id": "usejd_hudajr",
+      "name": "أسيد بن حضير",
+      "val": "40"
+    },
+    {
+      "id": "eslem_rafii",
+      "name": "أسلم أبو رافع",
+      "val": "40"
+    },
+    {
+      "id": "eshath_kajs",
+      "name": "الأشعث بن قيس",
+      "val": "40"
+    },
+    {
+      "id": "esma_ebekr",
+      "name": "أسماء بنت أبي بكر",
+      "val": "40"
+    },
+    {
+      "id": "eumame",
+      "name": "إياس أبو أمامة بن ثعلبة الحارثي",
+      "val": "40"
+    },
+    {
+      "id": "egarr_muzen",
+      "name": "الأغر المزني",
+      "val": "40"
+    },
+    {
+      "id": "uhban_eus",
+      "name": "أُهبان بن أوس",
+      "val": "40"
+    },
+    {
+      "id": "ijas_bukejr",
+      "name": "إياس بن البكير",
+      "val": "40"
+    },
+    {
+      "id": "burejde_husajb",
+      "name": "بريدة بن الحصيب الأسلمي",
+      "val": "40"
+    },
+    {
+      "id": "bera_azib",
+      "name": "البراء بن عازب الأنصاري",
+      "val": "40"
+    },
+    {
+      "id": "bilal_rebah",
+      "name": "بلال بن رباح",
+      "val": "40"
+    },
+    {
+      "id": "bera_malik",
+      "name": "البراء بن مالك",
+      "val": "40"
+    },
+    {
+      "id": "temim_dari",
+      "name": "تميم الداريّ",
+      "val": "40"
+    },
+    {
+      "id": "temim_usejd",
+      "name": "تميم بن أسيد العدوي",
+      "val": "40"
+    },
+    {
+      "id": "theuban",
+      "name": "ثوبان",
+      "val": "40"
+    },
+    {
+      "id": "thabit_kajs",
+      "name": "ثابت بن قيس بن شماس",
+      "val": "40"
+    },
+    {
+      "id": "thabit_dahak",
+      "name": "ثابت بن الضحّاك",
+      "val": "40"
+    },
+    {
+      "id": "thalebe_emalik",
+      "name": "ثعلبة بن أبي مالك",
+      "val": "40"
+    },
+    {
+      "id": "xhundub_xhunade",
+      "name": "جندب بن جنادة الغفاري",
+      "val": "40"
+    },
+    {
+      "id": "xhundeb_sufjan",
+      "name": "جندَب بن سفيان البجلي",
+      "val": "40"
+    },
+    {
+      "id": "xhubejr_mutim",
+      "name": "جبير ابن مطْعِم",
+      "val": "40"
+    },
+    {
+      "id": "xherir_abdullah",
+      "name": "جرير بن عبد الله البجلي",
+      "val": "40"
+    },
+    {
+      "id": "xhabir_semure",
+      "name": "جابر بن سمُرة",
+      "val": "40"
+    },
+    {
+      "id": "xhabir_abdullah",
+      "name": "جابر بن عبد الله",
+      "val": "40"
+    },
+    {
+      "id": "xhurthum_thalebe",
+      "name": "جرثم أبي ثعلبة الخشني",
+      "val": "40"
+    },
+    {
+      "id": "xhuvejrije_harith",
+      "name": "جوَيرية بنت الحارث",
+      "val": "40"
+    },
+    {
+      "id": "xhudhame_vehb",
+      "name": "جدامة بنت وهب",
+      "val": "40"
+    },
+    {
+      "id": "hakim_hizam",
+      "name": "حكيم بن حزام",
+      "val": "40"
+    },
+    {
+      "id": "hudhejfe_jeman",
+      "name": "حذيفة بن اليمان",
+      "val": "40"
+    },
+    {
+      "id": "harith_ribiij",
+      "name": "الحارث بن ربْعيّ أبي قتادة",
+      "val": "40"
+    },
+    {
+      "id": "harithe_vehb",
+      "name": "حارثة بن وهب الخزاعي",
+      "val": "40"
+    },
+    {
+      "id": "hafsa_omer",
+      "name": "حفصة بنت عمر بن الخطاب",
+      "val": "40"
+    },
+    {
+      "id": "hasan_thabit",
+      "name": "حسّان بن ثابت",
+      "val": "40"
+    },
+    {
+      "id": "hudhejfe_usejd",
+      "name": "حذيفة بن أسيد أبي سريحة الغفاري",
+      "val": "40"
+    },
+    {
+      "id": "hamil_basra",
+      "name": "حميل بن بصرة أبي بصرة الغفاري",
+      "val": "40"
+    },
+    {
+      "id": "harith_auf",
+      "name": "الحارث بن عوف أبي واقد الليثي",
+      "val": "40"
+    },
+    {
+      "id": "handhale_katib",
+      "name": "حنظلة الكاتب",
+      "val": "40"
+    },
+    {
+      "id": "hamze_amr",
+      "name": "حمزة بن عمرو الأسلمي",
+      "val": "40"
+    },
+    {
+      "id": "hakem_amr",
+      "name": "الحكم بن عمرو الغفاري",
+      "val": "40"
+    },
+    {
+      "id": "hazen_evehb",
+      "name": "حَزن بن أبي وهب",
+      "val": "40"
+    },
+    {
+      "id": "habab_eret",
+      "name": "خبّاب بن الأرتّ",
+      "val": "40"
+    },
+    {
+      "id": "halid_zejd",
+      "name": "خالد بن زيد أبي أيوب الأنصاري",
+      "val": "40"
+    },
+    {
+      "id": "halid_velid",
+      "name": "خالد بن الوليد",
+      "val": "40"
+    },
+    {
+      "id": "haule_hakim",
+      "name": "خوْلة بنت حكيم",
+      "val": "40"
+    },
+    {
+      "id": "hafaf_ima",
+      "name": "خفاف بن إيماء بن رَحَضة",
+      "val": "40"
+    },
+    {
+      "id": "huzejme_thabit",
+      "name": "خزيمة بن ثابت",
+      "val": "40"
+    },
+    {
+      "id": "haule_thamir",
+      "name": "خولة بنت ثامر",
+      "val": "40"
+    },
+    {
+      "id": "hansa_hadham",
+      "name": "خنساء بنت خذام",
+      "val": "40"
+    },
+    {
+      "id": "rifaa_abdmundhir",
+      "name": "رفاعة بن عبد المنذر أبي لبابة",
+      "val": "40"
+    },
+    {
+      "id": "rafii_hadixh",
+      "name": "رافع بن خديج",
+      "val": "40"
+    },
+    {
+      "id": "rubejii_muavidh",
+      "name": "الربيّع بنت معوّذ بن عفراء",
+      "val": "40"
+    },
+    {
+      "id": "umm_habibe",
+      "name": "رملة أم حبيبة بنت أبي سفيان",
+      "val": "40"
+    },
+    {
+      "id": "rafii_muala",
+      "name": "رافع بن المعلّى أبي سعيد",
+      "val": "40"
+    },
+    {
+      "id": "rifaa_rafii",
+      "name": "رفاعة بن رافع الزرقي",
+      "val": "40"
+    },
+    {
+      "id": "rifaa_amr",
+      "name": "رافع بن عمرو الغفاري",
+      "val": "40"
+    },
+    {
+      "id": "rebia_kab",
+      "name": "ربيعة بن كعب الأسلمي",
+      "val": "40"
+    },
+    {
+      "id": "rumejsa_usulejm",
+      "name": "الرمَيْصاء أم سُليم",
+      "val": "40"
     }
   ],
   "links": [
@@ -848,648 +1154,548 @@
       "target": "ali"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ibrahim"
+      "source": "muhamed",
+      "target": "muhamed_mesleme"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ishak"
+      "source": "muhamed",
+      "target": "usame_zejd"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ishkab"
+      "source": "muhamed",
+      "target": "enes_malik"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_xhafer"
+      "source": "muhamed",
+      "target": "ubej_kab"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_xhinab"
+      "source": "muhamed",
+      "target": "usejd_hudajr"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_xhevas"
+      "source": "muhamed",
+      "target": "eslem_rafii"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_hasen_tirm"
+      "source": "muhamed",
+      "target": "eshath_kajs"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_hasen_hirash"
+      "source": "muhamed",
+      "target": "esma_ebekr"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_haxhaxh"
+      "source": "muhamed",
+      "target": "eumame"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_humejd"
+      "source": "muhamed",
+      "target": "egarr_muzen"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_eamr"
+      "source": "muhamed",
+      "target": "uhban_eus"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_muh_hanbel"
+      "source": "muhamed",
+      "target": "ijas_bukejr"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_muh_velid"
+      "source": "muhamed",
+      "target": "burejde_husajb"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_muh_musa"
+      "source": "muhamed",
+      "target": "bera_azib"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_menii"
+      "source": "muhamed",
+      "target": "bilal_rebah"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_mundhir"
+      "source": "muhamed",
+      "target": "bera_malik"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_mihran"
+      "source": "muhamed",
+      "target": "temim_dari"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_mikdam"
+      "source": "muhamed",
+      "target": "temim_usejd"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_salih"
+      "source": "muhamed",
+      "target": "theuban"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abd_hakem"
+      "source": "muhamed",
+      "target": "thabit_kajs"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abd_ali"
+      "source": "muhamed",
+      "target": "thabit_dahak"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abd_ejub"
+      "source": "muhamed",
+      "target": "thalebe_emalik"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abd_junus"
+      "source": "muhamed",
+      "target": "xhundub_xhunade"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abd_muslim"
+      "source": "muhamed",
+      "target": "xhundeb_sufjan"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abdmelik"
+      "source": "muhamed",
+      "target": "xhubejr_mutim"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ubd_suhejl"
+      "source": "muhamed",
+      "target": "xherir_abdullah"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ubd_husejn"
+      "source": "muhamed",
+      "target": "xhabir_semure"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abdrrahman"
+      "source": "muhamed",
+      "target": "xhabir_abdullah"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_omer"
+      "source": "muhamed",
+      "target": "xhurthum_thalebe"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_oth_hakim"
+      "source": "muhamed",
+      "target": "xhuvejrije_harith"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_oth_abdnur"
+      "source": "muhamed",
+      "target": "xhudhame_vehb"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_amr"
+      "source": "muhamed",
+      "target": "hakim_hizam"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_isa"
+      "source": "muhamed",
+      "target": "hudhejfe_jeman"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abde_basr"
+      "source": "muhamed",
+      "target": "harith_ribiij"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_abde_amili"
+      "source": "muhamed",
+      "target": "harithe_vehb"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_ebekr"
+      "source": "muhamed",
+      "target": "hafsa_omer"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_seid_sahr"
+      "source": "muhamed",
+      "target": "hasan_thabit"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_seid_ibrahim"
+      "source": "muhamed",
+      "target": "hudhejfe_usejd"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_sinan"
+      "source": "muhamed",
+      "target": "hamil_basra"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_sulejman"
+      "source": "muhamed",
+      "target": "harith_auf"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_esurejxh"
+      "source": "muhamed",
+      "target": "handhale_katib"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_shebib"
+      "source": "muhamed",
+      "target": "hamze_amr"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_edavud"
+      "source": "muhamed",
+      "target": "hakem_amr"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_jakub"
+      "source": "muhamed",
+      "target": "hazen_evehb"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_jezid"
+      "source": "muhamed",
+      "target": "habab_eret"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_jusuf_nisbur"
+      "source": "muhamed",
+      "target": "halid_zejd"
     },
     {
-      "source": "ebekr",
-      "target": "ahmed_jusuf_tirm"
+      "source": "muhamed",
+      "target": "halid_velid"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_harith"
+      "source": "muhamed",
+      "target": "haule_hakim"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_hamze"
+      "source": "muhamed",
+      "target": "hafaf_ima"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_halid_bag"
+      "source": "muhamed",
+      "target": "huzejme_thabit"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_halid_jeshk"
+      "source": "muhamed",
+      "target": "haule_thamir"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_dinar"
+      "source": "muhamed",
+      "target": "hansa_hadham"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_zijad_saig"
+      "source": "muhamed",
+      "target": "rifaa_abdmundhir"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_zijad_hajat"
+      "source": "muhamed",
+      "target": "rafii_hadixh"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_zijad_seblan"
+      "source": "muhamed",
+      "target": "rubejii_muavidh"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_seid"
+      "source": "muhamed",
+      "target": "umm_habibe"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_muhamed"
+      "source": "muhamed",
+      "target": "rafii_muala"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_mundhir"
+      "source": "muhamed",
+      "target": "rifaa_rafii"
     },
     {
-      "source": "ebekr",
-      "target": "ibrahim_musa"
+      "source": "muhamed",
+      "target": "rifaa_amr"
     },
     {
-      "source": "ebekr",
-      "target": "adem_eijas"
+      "source": "muhamed",
+      "target": "rebia_kab"
     },
     {
-      "source": "ebekr",
-      "target": "ezher_xhemil"
+      "source": "muhamed",
+      "target": "rumejsa_usulejm"
     },
     {
-      "source": "ebekr",
-      "target": "ishak_ibrahim_beg"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_ibrahim_basr"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_ibrahim_handh"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_ibrahim_buh"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_ibrahim_umv"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_shahin"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_omer"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_eisa"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_muhamed"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_mensur"
+      "source": ""
     },
     {
-      "source": "ebekr",
-      "target": "ishak_musa"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ishak_vehb"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_eban_ganv"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_eban_kasim"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_ibrahim_herv"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_euvejs"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_halil"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_salim"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_abdullah"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_zejd"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_ferexh"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_bistam"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "ismail_sulejman"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bedel_mihber"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_adem"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_hakem"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_shuajb"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_isa"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_muhamed"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_hilal"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_halef"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_asrem"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bishr_amr"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bekr_halef"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bur_asrem"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "bejan_amr"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "temim_mensur"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "thabit_muhamed"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "xhafer_humejd"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "xhuma_abdullah"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "haxhib_velid"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hamid_omer"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hiban_musa"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "haxhaxh_minhal"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "haxhaxh_jusuf"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "harami_hafs"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "harmele_jahja"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasan_hasan"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasan_abdullah"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_ahmed"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_ishak"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_bishr"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_halef"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_rrebii"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_sabah"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_abdulaziz"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_ali"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_omer"
+      "source": ""
     },
     {
-      "source": "ali",
-      "target": "hasen_isa"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hasen_mhmd_umv"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hasen_mhmd_bag"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hasen_mudrik"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hasen_mensur"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "husejn_harith"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "husejn_isa"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "husejn_mensur"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "husejn_omer"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hakem_musa"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hakem_nafii"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hamad_ismail"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hamad_hasen"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hamad_omer"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "humejd_misade"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hajve_shurejh"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halid_hadash"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halid_halij"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halid_mahled"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halid_jezid"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "hatab_othman"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halef_halid"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halef_hisham"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halife_hajat"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "halad_jahja"
+      "source": ""
     },
     {
-      "source": "omer",
-      "target": "davud_rashid"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "davud_shebib"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "davud_amr"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "rebii_nafi"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "rebii_jahja"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "rifaa_hejthem"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "reuh_abdmumin"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zekrija_ezekrija"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zekrija_adij"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zekrija_jahja_hemd"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zekrija_jahja_misr"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zekrija_jahja_kuf"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zuhejr_harb"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zijad_ejub"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zijad_jahja"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zijad_ahzem"
+      "source": ""
     },
     {
-      "source": "othman",
-      "target": "zijad_jezid"
+      "source": ""
     }
   ]
 }
