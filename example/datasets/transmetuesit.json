@@ -116,23 +116,18 @@
       "val": "10"
     },
     {
-      "id": "abdullah_salih",
+      "id": "abdullah_salih_ixhli",
       "name_arb": "عبد الله بْن صَالِح العجلي",
       "val": "10"
     },
     {
-      "id": "abdullah_salih",
+      "id": "abdullah_salih_misri",
       "name_arb": "أبي صَالِح عَبد اللَّهِ بْن صَالِح المِصْرِي ",
       "val": "10"
     },
     {
       "id": "abdullah_xhafer_medini",
       "name_arb": "عبد الله بْن جَعْفَر بْن نجيح المديني",
-      "val": "10"
-    },
-    {
-      "id": "abdullah_xhafer_reki",
-      "name_arb": "عبد الله بن جفعر الرَّقِّيّ ",
       "val": "10"
     },
     {
@@ -158,11 +153,6 @@
     {
       "id": "adem_eijas",
       "name_arb": "آدم بْن أَبي إياس العسقلاني ",
-      "val": "10"
-    },
-    {
-      "id": "ahmed_abdullah_junus",
-      "name_arb": "أَحْمَد بْن عَبد اللَّهِ بْن يونس اليربوعي",
       "val": "10"
     },
     {
@@ -327,11 +317,6 @@
     },
     {
       "id": "hamad_usame",
-      "name_arb": "أبي أسامة حَمَّاد بْن أسامة ",
-      "val": "10"
-    },
-    {
-      "id": "hamad_usame",
       "name_arb": "أبي أسامة حَمَّاد بْن أسامة",
       "val": "10"
     },
@@ -436,11 +421,6 @@
       "val": "10"
     },
     {
-      "id": "ishak_ibrahim_jezid",
-      "name_arb": "إسحاق بْن إِبْرَاهِيم بْن يزيد الفراديسي",
-      "val": "10"
-    },
-    {
       "id": "ishak_jusuf",
       "name_arb": "إسحاق بْن يُوسُف الأزرق ",
       "val": "10"
@@ -453,11 +433,6 @@
     {
       "id": "ishak_seid_arkon",
       "name_arb": "إسحاق بْن سَعِيد بن الا ركون الدمشقي",
-      "val": "10"
-    },
-    {
-      "id": "ishak_seid_arkon",
-      "name_arb": "إسحاق بْن سَعِيد بن الا ركون",
       "val": "10"
     },
     {
@@ -478,11 +453,6 @@
     {
       "id": "ismail_ibrahim_uleje",
       "name_arb": "إسماعيل بْن إِبْرَاهِيم بْن مقسم الأسدي المعروف بابن علية",
-      "val": "10"
-    },
-    {
-      "id": "ismail_ibrahim_uleje",
-      "name_arb": "إسماعيل بْن إِبْرَاهِيم بن علية ",
       "val": "10"
     },
     {
@@ -528,11 +498,6 @@
     {
       "id": "jezid_harun",
       "name_arb": "يزيد بْن هارون",
-      "val": "10"
-    },
-    {
-      "id": "jezid_zurej",
-      "name_arb": "يزيد بْن زريع",
       "val": "10"
     },
     {
@@ -621,11 +586,6 @@
       "val": "10"
     },
     {
-      "id": "muhamed_adem_mesisi",
-      "name_arb": "محمد بْن آدم المصيصي",
-      "val": "10"
-    },
-    {
       "id": "muhamed_aidh",
       "name_arb": "محمد بْن عائذ القرشي الدمشقي",
       "val": "10"
@@ -691,11 +651,6 @@
       "val": "10"
     },
     {
-      "id": "muhamed_kethir_mesisi",
-      "name_arb": "محمد بْن كثير المصيصي",
-      "val": "10"
-    },
-    {
       "id": "muhamed_kudame_mesisi",
       "name_arb": "محمد بْن قدامة بْن أعين المصيصي",
       "val": "10"
@@ -703,11 +658,6 @@
     {
       "id": "muhamed_mukatil",
       "name_arb": "محمد بْن مقاتل العباداني",
-      "val": "10"
-    },
-    {
-      "id": "muhamed_musafa_mesisi",
-      "name_arb": "محمد بْن مصفى الحمصي",
       "val": "10"
     },
     {
@@ -756,11 +706,6 @@
       "val": "10"
     },
     {
-      "id": "musa_ejub_nasibi",
-      "name_arb": "موسى بْن أيوب النصيبي ",
-      "val": "10"
-    },
-    {
       "id": "musa_ismail",
       "name_arb": "أبي سَلَمَة مُوسَى بْن إِسْمَاعِيل التبوذكي",
       "val": "10"
@@ -768,11 +713,6 @@
     {
       "id": "musab_ahmed",
       "name_arb": "أبي مصعب أَحْمَد بْن أَبي بَكْر الزُّهْرِيّ",
-      "val": "10"
-    },
-    {
-      "id": "musejeb_vadih",
-      "name_arb": "المُسَيَّب بْن واضح الحمصي",
       "val": "10"
     },
     {
@@ -912,11 +852,6 @@
     },
     {
       "id": "sulejman_abdrrahman",
-      "name_arb": "سُلَيْمان ابن عَبْد الرَّحْمَنِ الدمشقي",
-      "val": "10"
-    },
-    {
-      "id": "sulejman_abdrrahman",
       "name_arb": "سُلَيْمان بْن عَبْد الرَّحْمَنِ الدمشقي",
       "val": "10"
     },
@@ -958,11 +893,6 @@
     {
       "id": "vehb_bekije",
       "name_arb": "وهب بْن بقية الواسطي",
-      "val": "10"
-    },
-    {
-      "id": "vehb_xherir",
-      "name_arb": "وهب ابن جرير بْن حازم ",
       "val": "10"
     },
     {
@@ -1357,7 +1287,7 @@
       "target": "ahmed_ibrahim_kethir"
     },
     {
-      "source": "abdullah_salih",
+      "source": "abdullah_salih_ixhli",
       "target": "ahmed_ibrahim_kethir"
     },
     {
@@ -1673,7 +1603,7 @@
       "target": "ahmed_ezher"
     },
     {
-      "source": "abdullah_salih",
+      "source": "abdullah_salih_misri",
       "target": "ahmed_ezher"
     },
     {
