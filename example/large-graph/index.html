@@ -15,7 +15,7 @@
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('../datasets/transmetuesit.json')
       .nodeAutoColorBy('val')
-      .nodeLabel(node => `${node.name}: ${node.description}`)
+      .nodeLabel(node => `${node.name_arb}: ${node.description}`)
       .nodeResolution(24)
       .nodeOpacity(1)
       .onNodeClick(node => {
