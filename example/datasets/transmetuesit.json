@@ -1642,7 +1642,8 @@
     },
     {
       "id": "muhamed_abdvehab",
-      "name_arb": "محمد بن عبد الوهاب القناد"
+      "name_arb": "محمد بن عبد الوهاب القناد",
+      "val": "10"
     },
     {
       "id": "muhamed_fadl_muhelhel]",
@@ -1681,7 +1682,7 @@
       "target": "ahmed_ibrahim_halid"
     },
     {
-      "source": "ibrahim_sulejman",
+      "source": "ibrahim_sulejman_muedib",
       "target": "ahmed_ibrahim_halid"
     },
     {
@@ -3093,7 +3094,7 @@
       "target": "ahmed_xhenab"
     },
     {
-      "source": "ibrahim_sulejman",
+      "source": "ibrahim_sulejman_hanefi",
       "target": "ahmed_xhevas"
     },
     {
