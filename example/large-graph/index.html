@@ -13,7 +13,7 @@
     const elem = document.getElementById('3d-graph');
 
     const Graph = ForceGraph3D()(elem)
-      .jsonUrl('../datasets/transmetuesit.json')
+      .jsonUrl('https://sheets.googleapis.com/v4/spreadsheets/18l2KMno_JIrBzcWVbnKU-gdGiki8sgqim30XyV44tuE/values/nodes!A2:C?alt=json&key=AIzaSyAjvcWup6LxzxP4vRI3m03AyyT_qBo6u1I')
       .nodeAutoColorBy('val')
       .nodeLabel(node => `${node.name_arb}: ${node.description}`)
       .nodeResolution(24)
