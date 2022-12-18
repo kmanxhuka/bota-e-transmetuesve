@@ -922,6 +922,11 @@
       "val": "10"
     },
     {
+      "id": "amr_hafs_bezaz",
+      "name_arb": "عَمْرو بن حفص ابن شليلة الثقفي البزاز",
+      "val": "10"
+    },
+    {
       "id": "amr_hejthem",
       "name_arb": "عَمْرو بْن الهيثم البَصْرِيّ",
       "val": "10"
@@ -2582,9 +2587,8 @@
       "val": "10"
     },
     {
-      "id": "omer_hafs_bezaz",
-      "name_arb": "عَمْرو بن حفص ابن شليلة الثقفي البزاز",
-      "val": "10"
+      "id": "omer_hafs_nehai",
+      "name_arb": "عُمَر بْن حفص ابن غِيَاث النخعي "
     },
     {
       "id": "omer_hamze",
@@ -3469,7 +3473,7 @@
       "target": "ahmed_ibrahim_kethir"
     },
     {
-      "source": "omer_hafs_gijath",
+      "source": "omer_hafs_nehai",
       "target": "ahmed_ibrahim_kethir"
     },
     {
@@ -3613,7 +3617,7 @@
       "target": "ahmed_ibrahim_ertah"
     },
     {
-      "source": "omer_hafs_bezaz",
+      "source": "amr_hafs_bezaz",
       "target": "ahmed_ibrahim_ertah"
     },
     {
