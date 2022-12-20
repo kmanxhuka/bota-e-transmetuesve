@@ -15,7 +15,7 @@
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('../datasets/transmetuesit.json')
       .nodeAutoColorBy('epoka')
-      .nodeRelSize('epoka')
+      .nodeRelSize('val')
       .nodeLabel(node => `${node.name_arb}: ${node.epoka}`)
       .nodeResolution(24)
       .nodeOpacity(1)
