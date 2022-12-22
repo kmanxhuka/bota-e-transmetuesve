@@ -3610,6 +3610,57 @@
       "id": "xherir_abdhamid",
       "name_arb": "جرير بن عبد الحميد الضبي الرازي",
       "val": "10"
+    },
+    {
+      "id": "zaide_kudame",
+      "name_arb": "زائدة بْن قدامة الثقفي"
+    },
+    {
+      "id": "zejd_abdmelik",
+      "name_arb": "يزيد بْن عبد الملك الجزري"
+    },
+    {
+      "id": "zejd_habab",
+      "name_arb": "زيد بْن الحباب العكلي ",
+      "val": "10"
+    },
+    {
+      "id": "zejd_hasen",
+      "name_arb": "زَيْد بْن الْحَسَن البَصْرِيّ الضرير",
+      "val": "10"
+    },
+    {
+      "id": "zejd_jahja",
+      "name_arb": "زيد بْن يحيى بْن عُبَيد الدمشقي",
+      "val": "10"
+    },
+    {
+      "id": "zekerija_adij",
+      "name_arb": "زكريا بْن عَدِيّ الكوفي ",
+      "val": "10"
+    },
+    {
+      "id": "zekerija_ibrahim",
+      "name_arb": "زكريا بْن إِبْرَاهِيم الخصاف"
+    },
+    {
+      "id": "zuhejr_abad",
+      "name_arb": "زهير بْن عباد الرؤاسي",
+      "val": "10"
+    },
+    {
+      "id": "zuhejr_muavije",
+      "name_arb": "زهير بْن معاوية الجعفي"
+    },
+    {
+      "id": "zuhejr_muhamed",
+      "name_arb": "زهير بْن مُحَمَّد بْن يَعْقُوب الملطي",
+      "val": "10"
+    },
+    {
+      "id": "zuhejr_nuajm",
+      "name_arb": "زهير بْن نعيم بْن داود الطيالسي ",
+      "val": "10"
     }
   ],
   "links": [
@@ -3934,7 +3985,7 @@
       "target": "ahmed_ibrahim_kethir"
     },
     {
-      "source": "zuhejr_neim",
+      "source": "zuhejr_nuajm",
       "target": "ahmed_ibrahim_kethir"
     },
     {
