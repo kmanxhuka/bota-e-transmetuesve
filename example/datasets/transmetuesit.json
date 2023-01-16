@@ -3892,7 +3892,7 @@
       "val": "10"
     },
     {
-      "id": "muhamed_othman",
+      "id": "muhamed_othman_thekafi",
       "name_arb": "محمد بْن عثمان بْن أَبي صفوان الثقفي"
     },
     {
@@ -5609,7 +5609,7 @@
       "target": "ahmed_ibrahim_ertah"
     },
     {
-      "source": "muhamed_othman",
+      "source": "muhamed_othman_tenuhi",
       "target": "ahmed_ibrahim_ertah"
     },
     {
@@ -6761,7 +6761,7 @@
       "target": "ahmed_hasen_tirmidh"
     },
     {
-      "source": "muhamed_othman",
+      "source": "muhamed_othman_tenuhi",
       "target": "ahmed_hasen_tirmidh"
     },
     {
@@ -10285,7 +10285,7 @@
       "target": "ahmed_ali_mervezi"
     },
     {
-      "source": "muhamed_othman",
+      "source": "muhamed_othman_thekafi",
       "target": "ahmed_ali_mervezi"
     },
     {
