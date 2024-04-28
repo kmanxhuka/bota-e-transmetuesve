@@ -1,0 +1,436 @@
+{
+  "links": [
+    {
+      "source": "abdullah",
+      "target": "Muhamed"
+    },
+    {
+      "source": "Ibrahim",
+      "target": "Ismail"
+    },
+    {
+      "source": "Ismail",
+      "target": "adnan"
+    },
+    {
+      "source": "adnan",
+      "target": "mad"
+    },
+    {
+      "source": "mad",
+      "target": "nizar"
+    },
+    {
+      "source": "nizar",
+      "target": "mudar"
+    },
+    {
+      "source": "mudar",
+      "target": "ijas"
+    },
+    {
+      "source": "ijas",
+      "target": "mudrike"
+    },
+    {
+      "source": "mudrike",
+      "target": "huzejme"
+    },
+    {
+      "source": "huzejme",
+      "target": "kinaneh"
+    },
+    {
+      "source": "kinaneh",
+      "target": "nadr"
+    },
+    {
+      "source": "nadr",
+      "target": "malik"
+    },
+    {
+      "source": "malik",
+      "target": "fihr"
+    },
+    {
+      "source": "fihr",
+      "target": "galib"
+    },
+    {
+      "source": "galib",
+      "target": "luej"
+    },
+    {
+      "source": "luej",
+      "target": "kab"
+    },
+    {
+      "source": "kab",
+      "target": "murre"
+    },
+    {
+      "source": "murre",
+      "target": "kilab"
+    },
+    {
+      "source": "kilab",
+      "target": "kusaj"
+    },
+    {
+      "source": "kusaj",
+      "target": "abdumunaf"
+    },
+    {
+      "source": "abdumunaf",
+      "target": "hashim"
+    },
+    {
+      "source": "hashim",
+      "target": "abdulmutalib"
+    },
+    {
+      "source": "abdulmutalib",
+      "target": "abdullah"
+    },
+    {
+      "target": "ebu_bekr"
+    },
+    {
+      "target": "omer"
+    },
+    {
+      "target": "othman"
+    },
+    {
+      "target": "ali"
+    },
+    {
+      "target": "hadixhe"
+    },
+    {
+      "target": "amine"
+    },
+    {
+      "target": "othman_amir"
+    },
+    {
+      "target": "amir"
+    },
+    {
+      "target": "amr"
+    },
+    {
+      "target": "kab_sad"
+    },
+    {
+      "target": "sad"
+    },
+    {
+      "target": "tejm"
+    },
+    {
+      "target": "vehb"
+    },
+    {
+      "target": "abdumunaf_zuh"
+    },
+    {
+      "target": "zuhre"
+    },
+    {
+      "target": "abdudar"
+    },
+    {
+      "target": "huvejlid"
+    },
+    {
+      "target": "esed"
+    },
+    {
+      "target": "abduluza"
+    },
+    {
+      "target": "mutalib"
+    },
+    {
+      "target": "neufel"
+    },
+    {
+      "target": "ebu_talib"
+    },
+    {
+      "target": "afan"
+    },
+    {
+      "target": "ebul_as"
+    },
+    {
+      "target": "umeje"
+    },
+    {
+      "target": "abdushems"
+    },
+    {
+      "target": "hatab"
+    },
+    {
+      "target": "nufejl"
+    },
+    {
+      "target": "abduluza_rabah"
+    },
+    {
+      "target": "rabah"
+    },
+    {
+      "target": "abdullah_furat"
+    },
+    {
+      "target": "furat"
+    },
+    {
+      "target": "rezah"
+    },
+    {
+      "target": "adij"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "Muhamed",
+      "name_arb": "محمد",
+      "val": "100",
+      "epoka": ""
+    },
+    {
+      "id": "Ibrahim",
+      "name_arb": "إبراهيم"
+    },
+    {
+      "id": "Ismail",
+      "name_arb": "إسماعيل"
+    },
+    {
+      "id": "adnan",
+      "name_arb": "عدنان",
+      "val": "10"
+    },
+    {
+      "id": "mad",
+      "name_arb": "معد"
+    },
+    {
+      "id": "nizar",
+      "name_arb": "نزار"
+    },
+    {
+      "id": "mudar",
+      "name_arb": "مضر"
+    },
+    {
+      "id": "ijas",
+      "name_arb": "إياس"
+    },
+    {
+      "id": "mudrike",
+      "name_arb": "مدركة"
+    },
+    {
+      "id": "huzejme",
+      "name_arb": "خزيمة"
+    },
+    {
+      "id": "kinaneh",
+      "name_arb": "كنانة"
+    },
+    {
+      "id": "nadr",
+      "name_arb": "نضر"
+    },
+    {
+      "id": "malik",
+      "name_arb": "مالك"
+    },
+    {
+      "id": "fihr",
+      "name_arb": "فهر"
+    },
+    {
+      "id": "galib",
+      "name_arb": "غالب",
+      "val": "10"
+    },
+    {
+      "id": "luej",
+      "name_arb": "لؤي"
+    },
+    {
+      "id": "kab",
+      "name_arb": "كعب"
+    },
+    {
+      "id": "murre",
+      "name_arb": "مرة"
+    },
+    {
+      "id": "kilab",
+      "name_arb": "كلاب"
+    },
+    {
+      "id": "kusaj",
+      "name_arb": "قصي"
+    },
+    {
+      "id": "abdumunaf",
+      "name_arb": "عبد مناف"
+    },
+    {
+      "id": "hashim",
+      "name_arb": "هاشم"
+    },
+    {
+      "id": "abdulmutalib",
+      "name_arb": "عبد المطلب"
+    },
+    {
+      "id": "abdullah",
+      "name_arb": "عبد الله"
+    },
+    {
+      "id": "ebu_bekr",
+      "name_arb": "أبو بكر"
+    },
+    {
+      "id": "omer",
+      "name_arb": "عمر"
+    },
+    {
+      "id": "othman",
+      "name_arb": "عثمان"
+    },
+    {
+      "id": "ali",
+      "name_arb": "علي"
+    },
+    {
+      "id": "hadixhe",
+      "name_arb": "خديجة"
+    },
+    {
+      "id": "amine",
+      "name_arb": "آمنة"
+    },
+    {
+      "id": "othman_amir",
+      "name_arb": "عثمان بن عامر"
+    },
+    {
+      "id": "amir",
+      "name_arb": "عامر"
+    },
+    {
+      "id": "amr",
+      "name_arb": "عمرو"
+    },
+    {
+      "id": "kab_sad",
+      "name_arb": "كعب بن سعد"
+    },
+    {
+      "id": "sad",
+      "name_arb": "سعد"
+    },
+    {
+      "id": "tejm",
+      "name_arb": "تيم"
+    },
+    {
+      "id": "vehb",
+      "name_arb": "وهب"
+    },
+    {
+      "id": "abdumunaf_zuh",
+      "name_arb": "عبد مناف بن زهرة"
+    },
+    {
+      "id": "zuhre",
+      "name_arb": "زهرة"
+    },
+    {
+      "id": "abdudar",
+      "name_arb": "عبد الدار"
+    },
+    {
+      "id": "huvejlid",
+      "name_arb": "خويلد"
+    },
+    {
+      "id": "esed",
+      "name_arb": "أسد"
+    },
+    {
+      "id": "abduluza",
+      "name_arb": "عبد العزى"
+    },
+    {
+      "id": "mutalib",
+      "name_arb": "مطلب"
+    },
+    {
+      "id": "neufel",
+      "name_arb": "نوفل"
+    },
+    {
+      "id": "ebu_talib",
+      "name_arb": "أبو طالب"
+    },
+    {
+      "id": "afan",
+      "name_arb": "عفان"
+    },
+    {
+      "id": "ebul_as",
+      "name_arb": "أبو العاص"
+    },
+    {
+      "id": "umeje",
+      "name_arb": "أمية"
+    },
+    {
+      "id": "abdushems",
+      "name_arb": "عبد الشمس"
+    },
+    {
+      "id": "hatab",
+      "name_arb": "خطاب"
+    },
+    {
+      "id": "nufejl",
+      "name_arb": "نفيل"
+    },
+    {
+      "id": "abduluza_rabah",
+      "name_arb": "عبد العزى بن رباح"
+    },
+    {
+      "id": "rabah",
+      "name_arb": "رباح"
+    },
+    {
+      "id": "abdullah_furat",
+      "name_arb": "عبد الله بن فرات"
+    },
+    {
+      "id": "furat",
+      "name_arb": "فرات"
+    },
+    {
+      "id": "rezah",
+      "name_arb": "رزاه"
+    },
+    {
+      "id": "adij",
+      "name_arb": "عدي"
+    }
+  ]
+}
