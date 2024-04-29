@@ -21,7 +21,7 @@
       .onChange(orientation => graph && graph.dagMode(orientation));
 
     // graph config
-    const NODE_REL_SIZE = 4;
+    const NODE_REL_SIZE = 10;
     const graph = ForceGraph3D()
       .dagMode('td')
       .dagLevelDistance(50)
@@ -31,7 +31,7 @@
       .nodeId('path')
       .nodeVal('size')
       .nodeLabel('path')
-      .nodeAutoColorBy('module')
+      .nodeAutoColorBy('size')
       .nodeOpacity(0.9)
       .linkDirectionalParticles(2)
       .linkDirectionalParticleWidth(0.8)
