@@ -182,16 +182,18 @@
     {
       "id": "Muhamed",
       "name_arb": "محمد",
-      "val": "100",
+      "val": "10",
       "epoka": ""
     },
     {
       "id": "Ibrahim",
-      "name_arb": "إبراهيم"
+      "name_arb": "إبراهيم",
+      "val": "10"
     },
     {
       "id": "Ismail",
-      "name_arb": "إسماعيل"
+      "name_arb": "إسماعيل",
+      "val": "10"
     },
     {
       "id": "adnan",
@@ -200,43 +202,53 @@
     },
     {
       "id": "mad",
-      "name_arb": "معد"
+      "name_arb": "معد",
+      "val": "10"
     },
     {
       "id": "nizar",
-      "name_arb": "نزار"
+      "name_arb": "نزار",
+      "val": "10"
     },
     {
       "id": "mudar",
-      "name_arb": "مضر"
+      "name_arb": "مضر",
+      "val": "10"
     },
     {
       "id": "ijas",
-      "name_arb": "إياس"
+      "name_arb": "إياس",
+      "val": "10"
     },
     {
       "id": "mudrike",
-      "name_arb": "مدركة"
+      "name_arb": "مدركة",
+      "val": "10"
     },
     {
       "id": "huzejme",
-      "name_arb": "خزيمة"
+      "name_arb": "خزيمة",
+      "val": "10"
     },
     {
       "id": "kinaneh",
-      "name_arb": "كنانة"
+      "name_arb": "كنانة",
+      "val": "10"
     },
     {
       "id": "nadr",
-      "name_arb": "نضر"
+      "name_arb": "نضر",
+      "val": "10"
     },
     {
       "id": "malik",
-      "name_arb": "مالك"
+      "name_arb": "مالك",
+      "val": "10"
     },
     {
       "id": "fihr",
-      "name_arb": "فهر"
+      "name_arb": "فهر",
+      "val": "10"
     },
     {
       "id": "galib",
@@ -245,175 +257,218 @@
     },
     {
       "id": "luej",
-      "name_arb": "لؤي"
+      "name_arb": "لؤي",
+      "val": "10"
     },
     {
       "id": "kab",
-      "name_arb": "كعب"
+      "name_arb": "كعب",
+      "val": "10"
     },
     {
       "id": "murre",
-      "name_arb": "مرة"
+      "name_arb": "مرة",
+      "val": "10"
     },
     {
       "id": "kilab",
-      "name_arb": "كلاب"
+      "name_arb": "كلاب",
+      "val": "10"
     },
     {
       "id": "kusaj",
-      "name_arb": "قصي"
+      "name_arb": "قصي",
+      "val": "10"
     },
     {
       "id": "abdumunaf",
-      "name_arb": "عبد مناف"
+      "name_arb": "عبد مناف",
+      "val": "10"
     },
     {
       "id": "hashim",
-      "name_arb": "هاشم"
+      "name_arb": "هاشم",
+      "val": "10"
     },
     {
       "id": "abdulmutalib",
-      "name_arb": "عبد المطلب"
+      "name_arb": "عبد المطلب",
+      "val": "10"
     },
     {
       "id": "abdullah",
-      "name_arb": "عبد الله"
+      "name_arb": "عبد الله",
+      "val": "10"
     },
     {
       "id": "ebu_bekr",
-      "name_arb": "أبو بكر"
+      "name_arb": "أبو بكر",
+      "val": "10"
     },
     {
       "id": "omer",
-      "name_arb": "عمر"
+      "name_arb": "عمر",
+      "val": "10"
     },
     {
       "id": "othman",
-      "name_arb": "عثمان"
+      "name_arb": "عثمان",
+      "val": "10"
     },
     {
       "id": "ali",
-      "name_arb": "علي"
+      "name_arb": "علي",
+      "val": "10"
     },
     {
       "id": "hadixhe",
-      "name_arb": "خديجة"
+      "name_arb": "خديجة",
+      "val": "10"
     },
     {
       "id": "amine",
-      "name_arb": "آمنة"
+      "name_arb": "آمنة",
+      "val": "10"
     },
     {
       "id": "othman_amir",
-      "name_arb": "عثمان بن عامر"
+      "name_arb": "عثمان بن عامر",
+      "val": "10"
     },
     {
       "id": "amir",
-      "name_arb": "عامر"
+      "name_arb": "عامر",
+      "val": "10"
     },
     {
       "id": "amr",
-      "name_arb": "عمرو"
+      "name_arb": "عمرو",
+      "val": "10"
     },
     {
       "id": "kab_sad",
-      "name_arb": "كعب بن سعد"
+      "name_arb": "كعب بن سعد",
+      "val": "10"
     },
     {
       "id": "sad",
-      "name_arb": "سعد"
+      "name_arb": "سعد",
+      "val": "10"
     },
     {
       "id": "tejm",
-      "name_arb": "تيم"
+      "name_arb": "تيم",
+      "val": "10"
     },
     {
       "id": "vehb",
-      "name_arb": "وهب"
+      "name_arb": "وهب",
+      "val": "10"
     },
     {
       "id": "abdumunaf_zuh",
-      "name_arb": "عبد مناف بن زهرة"
+      "name_arb": "عبد مناف بن زهرة",
+      "val": "10"
     },
     {
       "id": "zuhre",
-      "name_arb": "زهرة"
+      "name_arb": "زهرة",
+      "val": "10"
     },
     {
       "id": "abdudar",
-      "name_arb": "عبد الدار"
+      "name_arb": "عبد الدار",
+      "val": "10"
     },
     {
       "id": "huvejlid",
-      "name_arb": "خويلد"
+      "name_arb": "خويلد",
+      "val": "10"
     },
     {
       "id": "esed",
-      "name_arb": "أسد"
+      "name_arb": "أسد",
+      "val": "10"
     },
     {
       "id": "abduluza",
-      "name_arb": "عبد العزى"
+      "name_arb": "عبد العزى",
+      "val": "10"
     },
     {
       "id": "mutalib",
-      "name_arb": "مطلب"
+      "name_arb": "مطلب",
+      "val": "10"
     },
     {
       "id": "neufel",
-      "name_arb": "نوفل"
+      "name_arb": "نوفل",
+      "val": "10"
     },
     {
       "id": "ebu_talib",
-      "name_arb": "أبو طالب"
+      "name_arb": "أبو طالب",
+      "val": "10"
     },
     {
       "id": "afan",
-      "name_arb": "عفان"
+      "name_arb": "عفان",
+      "val": "10"
     },
     {
       "id": "ebul_as",
-      "name_arb": "أبو العاص"
+      "name_arb": "أبو العاص",
+      "val": "10"
     },
     {
       "id": "umeje",
-      "name_arb": "أمية"
+      "name_arb": "أمية",
+      "val": "10"
     },
     {
       "id": "abdushems",
-      "name_arb": "عبد الشمس"
+      "name_arb": "عبد الشمس",
+      "val": "10"
     },
     {
       "id": "hatab",
-      "name_arb": "خطاب"
+      "name_arb": "خطاب",
+      "val": "10"
     },
     {
       "id": "nufejl",
-      "name_arb": "نفيل"
+      "name_arb": "نفيل",
+      "val": "10"
     },
     {
       "id": "abduluza_rabah",
-      "name_arb": "عبد العزى بن رباح"
+      "name_arb": "عبد العزى بن رباح",
+      "val": "10"
     },
     {
       "id": "rabah",
-      "name_arb": "رباح"
+      "name_arb": "رباح",
+      "val": "10"
     },
     {
       "id": "abdullah_furat",
-      "name_arb": "عبد الله بن فرات"
+      "name_arb": "عبد الله بن فرات",
+      "val": "10"
     },
     {
       "id": "furat",
-      "name_arb": "فرات"
+      "name_arb": "فرات",
+      "val": "10"
     },
     {
       "id": "rezah",
-      "name_arb": "رزاه"
+      "name_arb": "رزاه",
+      "val": "10"
     },
     {
       "id": "adij",
-      "name_arb": "عدي"
+      "name_arb": "عدي",
+      "val": "10"
     }
   ]
 }
