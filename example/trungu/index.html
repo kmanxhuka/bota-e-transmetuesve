@@ -15,7 +15,7 @@
     const Graph = ForceGraph3D()(elem)
       .jsonUrl('../datasets/trungu.json')
       .nodeAutoColorBy('epoka')
-      .nodeVal('epoka')
+      //.nodeVal('epoka')
       .nodeRelSize(4)
       .nodeLabel(node => `${node.name_arb}: ${node.epoka}`)
       .nodeResolution(24)
