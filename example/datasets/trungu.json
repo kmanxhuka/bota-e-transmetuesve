@@ -1,177 +1,231 @@
 {
   "links": [
     {
-      "source": "Muhamed",
-      "target": "abdullah"
+      "source": "abdullah",
+      "target": "Muhamed"
     },
     {
-      "source": "Ismail",
-      "target": "Ibrahim"
-    },
-    {
-      "source": "adnan",
+      "source": "Ibrahim",
       "target": "Ismail"
     },
     {
+      "source": "Ismail",
       "target": "adnan"
     },
     {
+      "source": "adnan",
       "target": "mad"
     },
     {
+      "source": "mad",
       "target": "nizar"
     },
     {
+      "source": "nizar",
       "target": "mudar"
     },
     {
+      "source": "mudar",
       "target": "ijas"
     },
     {
+      "source": "ijas",
       "target": "mudrike"
     },
     {
+      "source": "mudrike",
       "target": "huzejme"
     },
     {
+      "source": "huzejme",
       "target": "kinaneh"
     },
     {
+      "source": "kinaneh",
       "target": "nadr"
     },
     {
+      "source": "nadr",
       "target": "malik"
     },
     {
+      "source": "malik",
       "target": "fihr"
     },
     {
+      "source": "fihr",
       "target": "galib"
     },
     {
+      "source": "galib",
       "target": "luej"
     },
     {
+      "source": "luej",
       "target": "kab"
     },
     {
+      "source": "kab",
       "target": "murre"
     },
     {
+      "source": "murre",
       "target": "kilab"
     },
     {
+      "source": "kilab",
       "target": "kusaj"
     },
     {
+      "source": "kusaj",
       "target": "abdumunaf"
     },
     {
+      "source": "abdumunaf",
       "target": "hashim"
     },
     {
+      "source": "hashim",
       "target": "abdulmutalib"
     },
     {
+      "source": "abdulmutalib",
+      "target": "abdullah"
+    },
+    {
+      "source": "othman_amir",
       "target": "ebu_bekr"
     },
     {
+      "source": "hatab",
       "target": "omer"
     },
     {
+      "source": "afan",
       "target": "othman"
     },
     {
+      "source": "ebu_talib",
       "target": "ali"
     },
     {
+      "source": "huvejlid",
       "target": "hadixhe"
     },
     {
+      "source": "vehb",
       "target": "amine"
     },
     {
+      "source": "amir",
       "target": "othman_amir"
     },
     {
+      "source": "amr",
       "target": "amir"
     },
     {
+      "source": "kab_sad",
       "target": "amr"
     },
     {
+      "source": "sad",
       "target": "kab_sad"
     },
     {
+      "source": "tejm",
       "target": "sad"
     },
     {
+      "source": "murre",
       "target": "tejm"
     },
     {
+      "source": "abdumunaf",
       "target": "vehb"
     },
     {
+      "source": "zuhre",
       "target": "abdumunaf_zuh"
     },
     {
+      "source": "kilab",
       "target": "zuhre"
     },
     {
+      "source": "kusaj",
       "target": "abdudar"
     },
     {
+      "source": "esed",
       "target": "huvejlid"
     },
     {
+      "source": "abduluza",
       "target": "esed"
     },
     {
+      "source": "kusaj",
       "target": "abduluza"
     },
     {
+      "source": "abdumunaf",
       "target": "mutalib"
     },
     {
+      "source": "abdumunaf",
       "target": "neufel"
     },
     {
+      "source": "abdulmutalib",
       "target": "ebu_talib"
     },
     {
+      "source": "ebul_as",
       "target": "afan"
     },
     {
+      "source": "umeje",
       "target": "ebul_as"
     },
     {
+      "source": "abdushems",
       "target": "umeje"
     },
     {
+      "source": "abdumunaf",
       "target": "abdushems"
     },
     {
+      "source": "nufejl",
       "target": "hatab"
     },
     {
+      "source": "abduluza_rabah",
       "target": "nufejl"
     },
     {
+      "source": "rabah",
       "target": "abduluza_rabah"
     },
     {
+      "source": "abdullah_furat",
       "target": "rabah"
     },
     {
+      "source": "furat",
       "target": "abdullah_furat"
     },
     {
+      "source": "rezah",
       "target": "furat"
     },
     {
+      "source": "adij",
       "target": "rezah"
     },
     {
+      "source": "kab",
       "target": "adij"
     }
   ],
