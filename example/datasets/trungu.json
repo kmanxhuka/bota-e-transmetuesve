@@ -233,19 +233,19 @@
     {
       "id": "Muhamed",
       "name_arb": "محمد",
-      "val": "10",
+      "val": "100",
       "epoka": "0"
     },
     {
       "id": "Ibrahim",
       "name_arb": "إبراهيم",
-      "val": "10",
+      "val": "100",
       "epoka": "-23"
     },
     {
       "id": "Ismail",
       "name_arb": "إسماعيل",
-      "val": "10",
+      "val": "100",
       "epoka": "-22"
     },
     {
@@ -377,31 +377,31 @@
     {
       "id": "ebu_bekr",
       "name_arb": "أبو بكر",
-      "val": "10",
+      "val": "90",
       "epoka": "0"
     },
     {
       "id": "omer",
       "name_arb": "عمر",
-      "val": "10",
+      "val": "85",
       "epoka": "0"
     },
     {
       "id": "othman",
       "name_arb": "عثمان",
-      "val": "10",
+      "val": "80",
       "epoka": "0"
     },
     {
       "id": "ali",
       "name_arb": "علي",
-      "val": "10",
+      "val": "75",
       "epoka": "0"
     },
     {
       "id": "hadixhe",
       "name_arb": "خديجة",
-      "val": "10",
+      "val": "70",
       "epoka": "0"
     },
     {
