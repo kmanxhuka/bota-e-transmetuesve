@@ -1,8 +1,8 @@
 {
   "links": [
     {
-      "source": "",
-      "target": "Muhamed"
+      "source": "Muhamed",
+      "target": "abdullah"
     },
     {
       "source": "Ismail",
@@ -71,9 +71,6 @@
     },
     {
       "target": "abdulmutalib"
-    },
-    {
-      "target": "abdullah"
     },
     {
       "target": "ebu_bekr"
